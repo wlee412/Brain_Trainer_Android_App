@@ -1,10 +1,8 @@
 # Brain_Trainer_Android_App
-Simple math game app
 
+This game is a simple math quiz using addition, subtraction, multiplication, and division that everyone can easily enjoy. 
+Find out how quickly you can solve question in time.
+Enjoy :D
 
-
-
-
-
-https://user-images.githubusercontent.com/60402577/124805250-e2166c80-df20-11eb-958d-11d6a1c44047.mp4
+![game_play](https://user-images.githubusercontent.com/60402577/124805818-9c0dd880-df21-11eb-9221-3d9a53642d87.gif)
 
